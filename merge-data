@@ -1,0 +1,20 @@
+#!/bin/bash
+rootdir=$(dirname $(readlink -f $0))
+datadir=$rootdir/csse_covid_19_data/csse_covid_19_daily_reports
+mergefile=$rootdir/csse_covid_19_data/csse_covid_19.csv
+cd $rootdir
+git pull origin master
+git pull upstream master
+files=$(find $datadir -name *.csv | sort)
+last_file=$(echo "$files"| tail -1)
+head -1 $last_file > $mergefile
+for file in $files; do
+	echo "Merging $file ..."
+	tail -n +2 $file >> $mergefile
+done
+git add $mergefile
+dt=$(date +%Y-%m-%d)
+echo "Daily reports merged at $dt. Last file $(basename $last_file)."
+#git commit -m "Daily reports merged at $dt. Last file $(basename $last_file)."
+#git push origin master
+echo "Merge complete in $mergefile"
