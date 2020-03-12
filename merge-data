@@ -11,10 +11,10 @@ head -1 $last_file > $mergefile
 for file in $files; do
 	echo "Merging $file ..."
 	tail -n +2 $file >> $mergefile
+	echo >> $mergefile
 done
 git add $mergefile
 dt=$(date +%Y-%m-%d)
-echo "Daily reports merged at $dt. Last file $(basename $last_file)."
-#git commit -m "Daily reports merged at $dt. Last file $(basename $last_file)."
-#git push origin master
+git commit -m "Daily reports merged at $dt. Last file processed: $(basename $last_file)."
+git push origin master
 echo "Merge complete in $mergefile"
