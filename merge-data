@@ -10,7 +10,7 @@ last_file=$(echo "$files"| tail -1)
 head -1 $last_file > $mergefile
 for file in $files; do
 	echo "Merging $file ..."
-	tail -n +2 $file >> $mergefile
+	tail -n +2 $file | awk 'BEGIN {FS=","} {dt=$3;sub(/T/," ",dt);print $1","$2","dt","$4","$5","$6","$7","$8}' >> $mergefile
 	echo >> $mergefile
 done
 git add $mergefile
