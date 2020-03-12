@@ -7,14 +7,19 @@ git pull origin master
 git pull upstream master
 files=$(find $datadir -name *.csv | sort)
 last_file=$(echo "$files"| tail -1)
-head -1 $last_file | csvtool -t , -u TAB col 1-8 - > $mergefile
+header=$(head -1 $last_file | csvtool -t , -u TAB col 3,1,2,4-8 -)
+echo -n > $mergefile.tmp
 for file in $files; do
 	echo "Merging $file ..."
-	data=$(tail -n +2 $file | csvtool -t , -u TAB col 1-8 -)
-	dates=$(echo "$data" | csvtool -t TAB col 3 - | csvtool call "date +\"%m/%d/%Y %T\" -d " -)
-	data=$(csvtool -t TAB -u TAB pastecol 3 1 <(echo "$data") <(echo "$dates"))
-	echo "$data" >> $mergefile
+	data=$(tail -n +2 $file | csvtool -t , -u TAB col 3,1,2,4-8 -)
+	dates=$(echo "$data" | csvtool -t TAB col 1 - | csvtool call "date +\"%m/%d/%Y %T\" -d " -)
+	data=$(csvtool -t TAB -u TAB pastecol 1 1 <(echo "$data") <(echo "$dates"))
+	echo "$data" >> $mergefile.tmp
 done
+sort -u $mergefile.tmp > $mergefile.sorted
+echo "$header" > $mergefile
+cat $mergefile.sorted >> $mergefile
+rm $mergefile.tmp $mergefile.sorted
 git add $mergefile
 dt=$(date +"%Y-%m-%d %T")
 git commit -m "Daily reports merged at $dt. Last file processed: $(basename $last_file)."
