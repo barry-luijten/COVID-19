@@ -7,13 +7,19 @@ git pull origin master
 git pull upstream master
 files=$(find $datadir -name *.csv | sort)
 last_file=$(echo "$files"| tail -1)
-header=$(head -1 $last_file | csvtool -t , -u TAB col 3,1,2,4-8 -)
+header=$(head -1 $last_file | csvtool -t , -u TAB col 1,2,4- -)
+dateheader=$(echo -e "Day\tLast Update")
+header=$(csvtool -t TAB -u TAB paste <(echo "$dateheader") <(echo "$header"))
 echo -n > $mergefile.tmp
 for file in $files; do
 	echo "Merging $file ..."
 	data=$(tail -n +2 $file | csvtool -t , -u TAB col 3,1,2,4-8 -)
 	dates=$(echo "$data" | csvtool -t TAB col 1 - | csvtool call "date +\"%m/%d/%Y %T\" -d " -)
+	days=$(echo "$dates" | csvtool -t TAB col 1 - | csvtool call "date +\"%Y%m%d\" -d " -)
+	# Replace first column with formatted dates
 	data=$(csvtool -t TAB -u TAB pastecol 1 1 <(echo "$data") <(echo "$dates"))
+	# Prepend days column
+	data=$(csvtool -t TAB -u TAB paste <(echo "$days") <(echo "$data"))
 	echo "$data" >> $mergefile.tmp
 done
 sort -u $mergefile.tmp > $mergefile.sorted
