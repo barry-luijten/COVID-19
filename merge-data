@@ -22,12 +22,28 @@ for file in $files; do
 	data=$(csvtool -t TAB -u TAB paste <(echo "$days") <(echo "$data"))
 	echo "$data" >> $mergefile.tmp
 done
-sort -u $mergefile.tmp > $mergefile.sorted
+echo "Fixing country names..."
+countries=$(csvtool -t TAB col 4 $mergefile.tmp)
+countries=$(echo "$countries" | sed --expression 's/*//g')
+countries=$(echo "$countries" | sed --expression 's/Hong Kong SAR/China/g')
+countries=$(echo "$countries" | sed --expression 's/Hong Kong/China/g')
+countries=$(echo "$countries" | sed --expression 's/Iran (Islamic Republic of)/Iran/g')
+countries=$(echo "$countries" | sed --expression 's/occupied Palestinian territory/Palestine/g')
+csvtool -t TAB -u TAB pastecol 4 1 $mergefile.tmp <(echo "$countries") > $mergefile.fixed
+mv $mergefile.fixed $mergefile.tmp
+echo "Sorting..."
+sort -u -r $mergefile.tmp > $mergefile.sorted.desc
+echo "Deduplicating..."
+awk 'BEGIN {FS="\t";previd="";} {id=$1$3$4;if (id != previd) {print $0; previd=id;}}' $mergefile.sorted.desc > $mergefile.tmp
+sort $mergefile.tmp > $mergefile.sorted 
 echo "$header" > $mergefile
 cat $mergefile.sorted >> $mergefile
-rm $mergefile.tmp $mergefile.sorted
+rm $mergefile.tmp $mergefile.sorted $mergefile.sorted.desc
+echo "Merge complete in $mergefile"
+exit
+echo "Committing changes to repo..."
 git add $mergefile
 dt=$(date +"%Y-%m-%d %T")
 git commit -m "Daily reports merged at $dt. Last file processed: $(basename $last_file)."
 git push origin master
-echo "Merge complete in $mergefile"
+echo "Completed."
