@@ -11,7 +11,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200122	01/22/2020 17:00:00	Hebei	Mainland China	1				
 20200122	01/22/2020 17:00:00	Heilongjiang	Mainland China					
 20200122	01/22/2020 17:00:00	Henan	Mainland China	5				
-20200122	01/22/2020 17:00:00	Hong Kong	Hong Kong					
+20200122	01/22/2020 17:00:00	Hong Kong	China					
 20200122	01/22/2020 17:00:00	Hubei	Mainland China	444	17	28		
 20200122	01/22/2020 17:00:00	Hunan	Mainland China	4				
 20200122	01/22/2020 17:00:00	Inner Mongolia	Mainland China					
@@ -52,7 +52,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200123	01/23/2020 17:00:00	Hebei	Mainland China	1	1			
 20200123	01/23/2020 17:00:00	Heilongjiang	Mainland China	2				
 20200123	01/23/2020 17:00:00	Henan	Mainland China	5				
-20200123	01/23/2020 17:00:00	Hong Kong	Hong Kong	2				
+20200123	01/23/2020 17:00:00	Hong Kong	China	2				
 20200123	01/23/2020 17:00:00	Hubei	Mainland China	444	17	28		
 20200123	01/23/2020 17:00:00	Hunan	Mainland China	9				
 20200123	01/23/2020 17:00:00	Inner Mongolia	Mainland China					
@@ -97,7 +97,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200124	01/24/2020 17:00:00	Hebei	Mainland China	2	1			
 20200124	01/24/2020 17:00:00	Heilongjiang	Mainland China	4	1			
 20200124	01/24/2020 17:00:00	Henan	Mainland China	9				
-20200124	01/24/2020 17:00:00	Hong Kong	Hong Kong	2				
+20200124	01/24/2020 17:00:00	Hong Kong	China	2				
 20200124	01/24/2020 17:00:00	Hubei	Mainland China	549	24	31		
 20200124	01/24/2020 17:00:00	Hunan	Mainland China	24				
 20200124	01/24/2020 17:00:00	Inner Mongolia	Mainland China	1				
@@ -138,7 +138,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200125	01/25/2020 17:00:00	Hebei	Mainland China	8	1			
 20200125	01/25/2020 17:00:00	Heilongjiang	Mainland China	9	1			
 20200125	01/25/2020 17:00:00	Henan	Mainland China	32				
-20200125	01/25/2020 17:00:00	Hong Kong	Hong Kong	5				
+20200125	01/25/2020 17:00:00	Hong Kong	China	5				
 20200125	01/25/2020 17:00:00	Hubei	Mainland China	761	40	32		
 20200125	01/25/2020 17:00:00	Hunan	Mainland China	43				
 20200125	01/25/2020 17:00:00	Illinois	US	1				
@@ -184,7 +184,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200126	01/26/2020 16:00:00	Hebei	Mainland China	13	1			
 20200126	01/26/2020 16:00:00	Heilongjiang	Mainland China	15	1			
 20200126	01/26/2020 16:00:00	Henan	Mainland China	83	1			
-20200126	01/26/2020 16:00:00	Hong Kong	Hong Kong	8				
+20200126	01/26/2020 16:00:00	Hong Kong	China	8				
 20200126	01/26/2020 16:00:00	Hubei	Mainland China	1058	52	42		
 20200126	01/26/2020 16:00:00	Hunan	Mainland China	69				
 20200126	01/26/2020 16:00:00	Illinois	US	1				
@@ -231,7 +231,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200127	01/27/2020 23:59:00	Hebei	Mainland China	18	1			
 20200127	01/27/2020 23:59:00	Heilongjiang	Mainland China	21	1			
 20200127	01/27/2020 23:59:00	Henan	Mainland China	128	1			
-20200127	01/27/2020 23:59:00	Hong Kong	Hong Kong	8				
+20200127	01/27/2020 23:59:00	Hong Kong	China	8				
 20200127	01/27/2020 23:59:00	Hubei	Mainland China	1423	76	45		
 20200127	01/27/2020 23:59:00	Hunan	Mainland China	100				
 20200127	01/27/2020 23:59:00	Illinois	US	1				
@@ -284,7 +284,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200128	01/28/2020 23:00:00	Hebei	Mainland China	33	1			
 20200128	01/28/2020 23:00:00	Heilongjiang	Mainland China	33	1			
 20200128	01/28/2020 23:00:00	Henan	Mainland China	168	1			
-20200128	01/28/2020 23:00:00	Hong Kong	Hong Kong	8				
+20200128	01/28/2020 23:00:00	Hong Kong	China	8				
 20200128	01/28/2020 23:00:00	Hubei	Mainland China	3554	125	80		
 20200128	01/28/2020 23:00:00	Hunan	Mainland China	143				
 20200128	01/28/2020 23:00:00	Illinois	US	1				
@@ -337,7 +337,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200129	01/29/2020 19:30:00	Hebei	Mainland China	48	1			
 20200129	01/29/2020 19:30:00	Heilongjiang	Mainland China	38	1			
 20200129	01/29/2020 19:30:00	Henan	Mainland China	206	2	1		
-20200129	01/29/2020 19:30:00	Hong Kong	Hong Kong	10				
+20200129	01/29/2020 19:30:00	Hong Kong	China	10				
 20200129	01/29/2020 19:30:00	Hubei	Mainland China	3554	125	88		
 20200129	01/29/2020 19:30:00	Hunan	Mainland China	221				
 20200129	01/29/2020 19:30:00	Illinois	US	1				
@@ -391,7 +391,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200130	01/30/2020 16:00:00	Hebei	Mainland China	65	1			
 20200130	01/30/2020 16:00:00	Heilongjiang	Mainland China	44	2			
 20200130	01/30/2020 16:00:00	Henan	Mainland China	278	2	2		
-20200130	01/30/2020 16:00:00	Hong Kong	Hong Kong	10				
+20200130	01/30/2020 16:00:00	Hong Kong	China	10				
 20200130	01/30/2020 16:00:00	Hubei	Mainland China	4903	162	90		
 20200130	01/30/2020 16:00:00	Hunan	Mainland China	277		2		
 20200130	01/30/2020 16:00:00	Illinois	US	1				
@@ -447,9 +447,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200131	01/31/2020 08:15:53		Sri Lanka	1	0	0		
 20200131	01/31/2020 10:37:00		Thailand	19	0	5		
 20200131	01/31/2020 15:20:00	Guizhou	Mainland China	29	0	2		
-20200131	01/31/2020 15:20:00	Taiwan	Taiwan	10	0	0		
 20200131	01/31/2020 15:20:56	Taiwan	Taiwan	10	0	0		
-20200131	01/31/2020 16:13:00		Russia	2	0	0		
 20200131	01/31/2020 16:13:45		Russia	2	0	0		
 20200131	01/31/2020 23:59:00	Anhui	Mainland China	237		3		
 20200131	01/31/2020 23:59:00	Arizona	US	1				
@@ -470,7 +468,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200131	01/31/2020 23:59:00	Hebei	Mainland China	82	1			
 20200131	01/31/2020 23:59:00	Heilongjiang	Mainland China	59	2			
 20200131	01/31/2020 23:59:00	Henan	Mainland China	352	2	3		
-20200131	01/31/2020 23:59:00	Hong Kong	Hong Kong	12				
+20200131	01/31/2020 23:59:00	Hong Kong	China	12				
 20200131	01/31/2020 23:59:00	Hubei	Mainland China	5806	204	141		
 20200131	01/31/2020 23:59:00	Hunan	Mainland China	332		2		
 20200131	01/31/2020 23:59:00	Illinois	US	2				
@@ -528,17 +526,15 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200201	02/01/2020 01:52:40		UK	2	0	0		
 20200201	02/01/2020 02:13:00	Ningxia	Mainland China	26	0	0		
 20200201	02/01/2020 02:13:00		Spain	1	0	0		
-20200201	02/01/2020 02:13:00		Sweden	1	0	0		
 20200201	02/01/2020 02:13:26		Sweden	1	0	0		
 20200201	02/01/2020 05:37:00	Fujian	Mainland China	144	0	0		
-20200201	02/01/2020 05:37:00	Hong Kong	Hong Kong	13	0	0		
+20200201	02/01/2020 05:37:00	Hong Kong	China	13	0	0		
 20200201	02/01/2020 05:37:00	Inner Mongolia	Mainland China	23	0	1		
 20200201	02/01/2020 05:37:00	Qinghai	Mainland China	9	0	0		
 20200201	02/01/2020 05:37:00	Shaanxi	Mainland China	101	0	0		
 20200201	02/01/2020 05:37:00		Singapore	16	0	0		
 20200201	02/01/2020 05:37:00	Xinjiang	Mainland China	18	0	0		
 20200201	02/01/2020 06:05:00	Shanghai	Mainland China	169	1	10		
-20200201	02/01/2020 07:38:00		Vietnam	6	0	1		
 20200201	02/01/2020 07:38:12		Vietnam	6	0	1		
 20200201	02/01/2020 07:51:00	Shandong	Mainland China	206	0	3		
 20200201	02/01/2020 08:43:00	Chongqing	Mainland China	247	1	3		
@@ -568,7 +564,6 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200201	02/01/2020 18:12:49	Ontario	Canada	3	0	0		
 20200201	02/01/2020 18:12:49	Victoria	Australia	4	0	0		
 20200201	02/01/2020 18:33:00		Germany	8	0	0		
-20200201	02/01/2020 18:53:00		Japan	20	0	1		
 20200201	02/01/2020 18:53:03		Japan	20	0	1		
 20200201	02/01/2020 19:43:00	Boston, MA	US	1	0	0		
 20200201	02/01/2020 19:43:00	Chicago, IL	US	2	0	0		
@@ -581,9 +576,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200201	02/01/2020 19:53:00	Los Angeles, CA	US	1	0	0		
 20200201	02/01/2020 19:53:00	Orange, CA	US	1	0	0		
 20200201	02/01/2020 19:53:00	Santa Clara, CA	US	1	0	0		
-20200201	02/01/2020 19:53:03	Los Angeles, CA	US	1	0	0		
 20200201	02/01/2020 19:53:03	Los Angeles, CA	US	1	0	0	34.0522	-118.2437
-20200201	02/01/2020 19:53:03	Orange, CA	US	1	0	0		
 20200201	02/01/2020 19:53:03	Orange, CA	US	1	0	0	33.7879	-117.8531
 20200201	02/01/2020 19:53:03	Santa Clara, CA	US	1	0	0		
 20200201	02/01/2020 23:43:02		Spain	1	0	0		
@@ -626,7 +619,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200202	02/02/2020 23:33:02	Chongqing	Mainland China	300	2	7		
 20200202	02/02/2020 23:43:02	Gansu	Mainland China	51	0	3		
 20200202	02/02/2020 23:43:02	Hubei	Mainland China	11177	350	295		
-20200202	02/02/2020 23:53:02	Hong Kong	Hong Kong	15	0	0		
+20200202	02/02/2020 23:53:02	Hong Kong	China	15	0	0		
 20200203	02/03/2020 00:23:14	Hebei	Mainland China	113	1	3		
 20200203	02/03/2020 00:43:02	Santa Clara, CA	US	2	0	0		
 20200203	02/03/2020 00:53:03	Jilin	Mainland China	31	0	1		
@@ -636,7 +629,6 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200203	02/03/2020 02:33:02	Shaanxi	Mainland China	128	0	0		
 20200203	02/03/2020 02:43:01	Qinghai	Mainland China	13	0	0		
 20200203	02/03/2020 03:03:09	Inner Mongolia	Mainland China	34	0	1		
-20200203	02/03/2020 03:53:02	San Benito, CA	US	2	0	0		
 20200203	02/03/2020 03:53:02	San Benito, CA	US	2	0	0	36.5761	-120.9876
 20200203	02/03/2020 07:03:12	Shanghai	Mainland China	203	1	10		
 20200203	02/03/2020 07:13:19	Heilongjiang	Mainland China	121	2	2		
@@ -679,7 +671,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200204	02/04/2020 07:43:01	Heilongjiang	Mainland China	155	2	4		
 20200204	02/04/2020 08:33:01	Beijing	Mainland China	228	1	23		
 20200204	02/04/2020 08:53:01	Hebei	Mainland China	126	1	4		
-20200204	02/04/2020 09:03:02	Hong Kong	Hong Kong	17	1	0		
+20200204	02/04/2020 09:03:02	Hong Kong	China	17	1	0		
 20200204	02/04/2020 10:43:02	Guizhou	Mainland China	58	0	2		
 20200204	02/04/2020 11:33:03	Hainan	Mainland China	80	1	5		
 20200204	02/04/2020 11:53:02	Henan	Mainland China	675	2	27		
@@ -722,7 +714,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200205	02/05/2020 12:33:01	Fujian	Mainland China	205	0	11		
 20200205	02/05/2020 12:33:02	Guizhou	Mainland China	64	1	9		
 20200205	02/05/2020 12:43:02	Jiangsu	Mainland China	341	0	23		
-20200205	02/05/2020 13:13:10	Hong Kong	Hong Kong	21	1	0		
+20200205	02/05/2020 13:13:10	Hong Kong	China	21	1	0		
 20200205	02/05/2020 13:23:04	Guangdong	Mainland China	895	0	49		
 20200205	02/05/2020 13:43:02	Anhui	Mainland China	530	0	23		
 20200205	02/05/2020 15:03:02	Henan	Mainland China	764	2	47		
@@ -736,7 +728,6 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200205	02/05/2020 16:33:03		Singapore	28	0	0		
 20200205	02/05/2020 16:43:04	Hainan	Mainland China	99	1	5		
 20200205	02/05/2020 17:33:03	British Columbia	Canada	2	0	0		
-20200205	02/05/2020 21:53:02	Madison, WI	US	1	0	0		
 20200205	02/05/2020 21:53:02	Madison, WI	US	1	0	0	43.0731	-89.4012
 20200205	02/05/2020 23:13:12	Hubei	Mainland China	19665	549	633		
 20200205	02/05/2020 23:33:02	Yunnan	Mainland China	128	0	5		
@@ -772,7 +763,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200206	02/06/2020 14:23:04	Jilin	Mainland China	59	0	4		
 20200206	02/06/2020 14:23:04	Macau	Macau	10	0	1		
 20200206	02/06/2020 14:33:02	Liaoning	Mainland China	94	0	5		
-20200206	02/06/2020 14:43:02	Hong Kong	Hong Kong	24	1	0		
+20200206	02/06/2020 14:43:02	Hong Kong	China	24	1	0		
 20200206	02/06/2020 15:03:04	Taiwan	Taiwan	16	0	1		
 20200206	02/06/2020 23:03:02	Shanxi	Mainland China	96	0	12		
 20200206	02/06/2020 23:23:02	Hubei	Mainland China	22112	618	817		
@@ -803,7 +794,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200207	02/07/2020 11:33:11	Hunan	Mainland China	772	0	112		
 20200207	02/07/2020 11:33:11	Shandong	Mainland China	386	0	37		
 20200207	02/07/2020 11:33:11	Zhejiang	Mainland China	1006	0	123		
-20200207	02/07/2020 11:53:02	Hong Kong	Hong Kong	25	1	0		
+20200207	02/07/2020 11:53:02	Hong Kong	China	25	1	0		
 20200207	02/07/2020 12:03:04	Hebei	Mainland China	172	1	22		
 20200207	02/07/2020 12:33:02	Hainan	Mainland China	117	2	10		
 20200207	02/07/2020 13:23:03	Fujian	Mainland China	224	0	20		
@@ -819,14 +810,13 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200207	02/07/2020 23:33:02	Chongqing	Mainland China	426	2	31		
 20200207	02/07/2020 23:43:02	Hubei	Mainland China	24953	699	1115		
 20200207	02/07/2020 23:43:02	Shanxi	Mainland China	104	0	15		
-20200208	02/08/2020 00:03:07	Hong Kong	Hong Kong	26	1	0		
+20200208	02/08/2020 00:03:07	Hong Kong	China	26	1	0		
 20200208	02/08/2020 00:13:04	Jilin	Mainland China	69	1	4		
 20200208	02/08/2020 00:23:03	Guangxi	Mainland China	183	0	17		
 20200208	02/08/2020 01:23:02	Jiangxi	Mainland China	698	0	55		
 20200208	02/08/2020 03:13:09	Beijing	Mainland China	315	2	34		
 20200208	02/08/2020 03:23:10	Xinjiang	Mainland China	42	0	0		
 20200208	02/08/2020 03:33:02	Inner Mongolia	Mainland China	52	0	5		
-20200208	02/08/2020 03:43:03		Sri Lanka	1	0	1		
 20200208	02/08/2020 03:43:03		Sri Lanka	1	0	1	7.0000	81.0000
 20200208	02/08/2020 04:03:09	Heilongjiang	Mainland China	295	5	13		
 20200208	02/08/2020 05:23:02	Taiwan	Taiwan	17	0	1		
@@ -878,7 +868,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200209	02/09/2020 09:13:11	Taiwan	Taiwan	18	0	1		
 20200209	02/09/2020 09:33:02	Anhui	Mainland China	779	1	72		
 20200209	02/09/2020 09:53:02	Guizhou	Mainland China	99	1	7		
-20200209	02/09/2020 09:53:02	Hong Kong	Hong Kong	29	1	0		
+20200209	02/09/2020 09:53:02	Hong Kong	China	29	1	0		
 20200209	02/09/2020 10:23:11	Jiangsu	Mainland China	468	0	71		
 20200209	02/09/2020 11:23:08	Henan	Mainland China	1033	6	153		
 20200209	02/09/2020 11:33:12	Jiangxi	Mainland China	740	0	73		
@@ -914,7 +904,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200210	02/10/2020 09:43:02	Yunnan	Mainland China	149	0	19		
 20200210	02/10/2020 10:03:02	Hebei	Mainland China	218	2	41		
 20200210	02/10/2020 10:03:02	Sichuan	Mainland China	405	1	80		
-20200210	02/10/2020 10:13:06	Hong Kong	Hong Kong	38	1	0		
+20200210	02/10/2020 10:13:06	Hong Kong	China	38	1	0		
 20200210	02/10/2020 12:33:02	Guizhou	Mainland China	109	1	10		
 20200210	02/10/2020 13:23:06	Shaanxi	Mainland China	213	0	30		
 20200210	02/10/2020 13:43:02	Guangdong	Mainland China	1159	1	167		
@@ -947,7 +937,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200211	02/11/2020 09:13:11	Xinjiang	Mainland China	55	0	3		
 20200211	02/11/2020 09:23:04	Yunnan	Mainland China	153	0	20		
 20200211	02/11/2020 09:43:02	Anhui	Mainland China	860	4	105		
-20200211	02/11/2020 09:43:02	Hong Kong	Hong Kong	49	1	0		
+20200211	02/11/2020 09:43:02	Hong Kong	China	49	1	0		
 20200211	02/11/2020 10:03:08	Ningxia	Mainland China	53	0	22		
 20200211	02/11/2020 11:23:04	Guangxi	Mainland China	215	1	33		
 20200211	02/11/2020 11:23:04	Hebei	Mainland China	239	2	48		
@@ -981,15 +971,12 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200212	02/12/2020 02:43:03		Japan	28	0	9		
 20200212	02/12/2020 04:23:38	Diamond Princess cruise ship	Others	175	0	0		
 20200212	02/12/2020 06:23:08	Shanghai	Mainland China	311	1	57		
-20200212	02/12/2020 06:43:02	Tibet	Mainland China	1	0	1		
 20200212	02/12/2020 06:43:02	Tibet	Mainland China	1	0	1	31.6927	88.0924
-20200212	02/12/2020 07:43:02		Cambodia	1	0	1		
 20200212	02/12/2020 07:43:02		Cambodia	1	0	1	11.5500	104.9167
-20200212	02/12/2020 07:43:02		Philippines	3	1	1		
 20200212	02/12/2020 07:43:02		Philippines	3	1	1	13.0000	122.0000
 20200212	02/12/2020 08:03:06	Qinghai	Mainland China	18	0	9		
 20200212	02/12/2020 09:43:02	Guizhou	Mainland China	133	1	18		
-20200212	02/12/2020 09:53:02	Hong Kong	Hong Kong	50	1	1		
+20200212	02/12/2020 09:53:02	Hong Kong	China	50	1	1		
 20200212	02/12/2020 09:53:02	Macau	Macau	10	0	2		
 20200212	02/12/2020 10:13:20	Anhui	Mainland China	889	4	127		
 20200212	02/12/2020 10:13:20	Zhejiang	Mainland China	1131	0	321		
@@ -1009,16 +996,13 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200212	02/12/2020 14:13:08	Jiangsu	Mainland China	543	0	125		
 20200212	02/12/2020 14:13:08	Jilin	Mainland China	83	1	22		
 20200212	02/12/2020 14:13:08	Yunnan	Mainland China	154	0	26		
-20200212	02/12/2020 14:43:03		Nepal	1	0	1		
 20200212	02/12/2020 14:43:03		Nepal	1	0	1	28.1667	84.2500
-20200212	02/12/2020 14:43:03		Russia	2	0	2		
 20200212	02/12/2020 14:43:03		Russia	2	0	2	60.0000	90.0000
 20200212	02/12/2020 14:43:03		South Korea	28	0	7		
 20200212	02/12/2020 15:03:05	Guangxi	Mainland China	222	1	32		
 20200212	02/12/2020 15:03:05	Tianjin	Mainland China	112	2	11		
 20200212	02/12/2020 17:03:03	Hainan	Mainland China	157	4	27		
 20200212	02/12/2020 18:53:02		France	11	0	2		
-20200212	02/12/2020 18:53:03	London, ON	Canada	1	0	1		
 20200212	02/12/2020 18:53:03	London, ON	Canada	1	0	1	42.9849	-81.2453
 20200212	02/12/2020 19:03:06		UK	9	0	1		
 20200212	02/12/2020 19:53:02		Singapore	50	0	15		
@@ -1057,14 +1041,13 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200213	02/13/2020 14:33:02	Liaoning	Mainland China	117	1	22		
 20200213	02/13/2020 14:33:02		Singapore	58	0	15		
 20200213	02/13/2020 14:53:02	Henan	Mainland China	1169	10	296		
-20200213	02/13/2020 14:53:02	Hong Kong	Hong Kong	53	1	1		
+20200213	02/13/2020 14:53:02	Hong Kong	China	53	1	1		
 20200213	02/13/2020 15:13:11		Germany	16	0	1		
 20200213	02/13/2020 15:53:03	Gansu	Mainland China	90	2	39		
 20200213	02/13/2020 17:53:03	New South Wales	Australia	4	0	4		
 20200213	02/13/2020 17:53:03		Thailand	33	0	12		
 20200213	02/13/2020 17:53:03	Victoria	Australia	4	0	4		
 20200213	02/13/2020 18:53:02		India	3	0	0		
-20200213	02/13/2020 18:53:02	San Antonio, TX	US	1	0	0		
 20200213	02/13/2020 18:53:02	San Antonio, TX	US	1	0	0	29.4241	-98.4936
 20200213	02/13/2020 23:23:05	Chongqing	Mainland China	529	4	128		
 20200213	02/13/2020 23:23:05	Shanxi	Mainland China	126	0	36		
@@ -1080,7 +1063,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200214	02/14/2020 03:53:02		Japan	29	1	9		
 20200214	02/14/2020 04:13:11	Shanghai	Mainland China	318	1	90		
 20200214	02/14/2020 06:33:02	Beijing	Mainland China	372	3	80		
-20200214	02/14/2020 09:03:12	Hong Kong	Hong Kong	56	1	1		
+20200214	02/14/2020 09:03:12	Hong Kong	China	56	1	1		
 20200214	02/14/2020 09:23:04	Hunan	Mainland China	988	2	364		
 20200214	02/14/2020 10:03:03	Jiangsu	Mainland China	593	0	157		
 20200214	02/14/2020 11:13:22	Fujian	Mainland China	281	0	63		
@@ -1145,7 +1128,6 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200216	02/16/2020 01:33:02		South Korea	29	0	9		
 20200216	02/16/2020 02:53:02	Shanghai	Mainland China	328	1	140		
 20200216	02/16/2020 03:43:02	Diamond Princess cruise ship	Others	355	0	0		
-20200216	02/16/2020 07:43:02		India	3	0	3		
 20200216	02/16/2020 07:43:02		India	3	0	3	21.0000	78.0000
 20200216	02/16/2020 08:33:02	Anhui	Mainland China	962	6	255		
 20200216	02/16/2020 08:33:02	Inner Mongolia	Mainland China	70	0	8		
@@ -1153,7 +1135,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200216	02/16/2020 09:13:09	Guizhou	Mainland China	144	1	46		
 20200216	02/16/2020 09:33:02	Jiangsu	Mainland China	617	0	218		
 20200216	02/16/2020 09:33:02	Zhejiang	Mainland China	1167	0	456		
-20200216	02/16/2020 09:53:01	Hong Kong	Hong Kong	57	1	2		
+20200216	02/16/2020 09:53:01	Hong Kong	China	57	1	2		
 20200216	02/16/2020 09:53:01	Yunnan	Mainland China	171	0	42		
 20200216	02/16/2020 10:03:06	Beijing	Mainland China	380	4	108		
 20200216	02/16/2020 10:03:06	Jiangxi	Mainland China	925	1	240		
@@ -1215,7 +1197,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200217	02/17/2020 14:53:02	Gansu	Mainland China	91	2	58		
 20200217	02/17/2020 14:53:02	Henan	Mainland China	1246	16	509		
 20200217	02/17/2020 15:43:02	Taiwan	Taiwan	22	1	2		
-20200217	02/17/2020 22:53:01	Hong Kong	Hong Kong	60	1	2		
+20200217	02/17/2020 22:53:01	Hong Kong	China	60	1	2		
 20200217	02/17/2020 22:53:01	Shanxi	Mainland China	130	0	53		
 20200217	02/17/2020 23:13:06	Chongqing	Mainland China	553	5	225		
 20200217	02/17/2020 23:13:06	Hubei	Mainland China	59989	1789	7862		
@@ -1256,7 +1238,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200218	02/18/2020 23:13:11	Hubei	Mainland China	61682	1921	9128		
 20200218	02/18/2020 23:23:03	Chongqing	Mainland China	555	5	254		
 20200218	02/18/2020 23:23:03	Shanxi	Mainland China	131	0	61		
-20200218	02/18/2020 23:43:02	Hong Kong	Hong Kong	62	1	2		
+20200218	02/18/2020 23:43:02	Hong Kong	China	62	1	2		
 20200218	02/18/2020 23:53:01	Hebei	Mainland China	306	4	136		
 20200219	02/19/2020 01:23:07	Jiangxi	Mainland China	934	1	362		
 20200219	02/19/2020 01:23:07	Liaoning	Mainland China	121	1	55		
@@ -1279,7 +1261,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200219	02/19/2020 11:53:02	Fujian	Mainland China	293	0	112		
 20200219	02/19/2020 12:03:07	Shandong	Mainland China	544	3	231		
 20200219	02/19/2020 12:13:08	Henan	Mainland China	1262	19	573		
-20200219	02/19/2020 12:13:08	Hong Kong	Hong Kong	63	2	5		
+20200219	02/19/2020 12:13:08	Hong Kong	China	63	2	5		
 20200219	02/19/2020 12:13:08	Jiangsu	Mainland China	631	0	318		
 20200219	02/19/2020 13:03:03	Tianjin	Mainland China	130	3	54		
 20200219	02/19/2020 13:23:02	Hebei	Mainland China	306	4	152		
@@ -1327,24 +1309,21 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200220	02/20/2020 15:53:03		Japan	94	1	18		
 20200220	02/20/2020 17:33:02		Iran	5	2	0		
 20200220	02/20/2020 23:13:05	Chongqing	Mainland China	567	6	299		
-20200220	02/20/2020 23:13:05	Hong Kong	Hong Kong	68	2	6		
+20200220	02/20/2020 23:13:05	Hong Kong	China	68	2	6		
 20200220	02/20/2020 23:13:05	Shanxi	Mainland China	132	0	76		
 20200220	02/20/2020 23:13:05	Yunnan	Mainland China	174	2	79		
 20200220	02/20/2020 23:43:02	Hubei	Mainland China	62442	2144	11788		
 20200221	02/21/2020 01:03:09	Beijing	Mainland China	396	4	169		
 20200221	02/21/2020 01:13:05	Jiangxi	Mainland China	934	1	489		
 20200221	02/21/2020 01:33:02	Liaoning	Mainland China	121	1	61		
-20200221	02/21/2020 03:43:02	Hong Kong	Hong Kong	68	2	5		
+20200221	02/21/2020 03:43:02	Hong Kong	China	68	2	5		
 20200221	02/21/2020 03:43:02		Singapore	85	0	37		
-20200221	02/21/2020 04:43:02	Qinghai	Mainland China	18	0	18		
 20200221	02/21/2020 04:43:02	Qinghai	Mainland China	18	0	18	35.7452	95.9956
-20200221	02/21/2020 05:13:09	Humboldt County, CA	US	1	0	0		
 20200221	02/21/2020 05:13:09	Humboldt County, CA	US	1	0	0	40.7450	-123.8695
 20200221	02/21/2020 05:23:04	British Columbia	Canada	6	0	0		
 20200221	02/21/2020 05:23:04	Santa Clara, CA	US	2	0	1		
 20200221	02/21/2020 05:23:04	Toronto, ON	Canada	2	0	2		
 20200221	02/21/2020 05:43:02	Queensland	Australia	5	0	1		
-20200221	02/21/2020 05:43:02	San Diego County, CA	US	2	0	1		
 20200221	02/21/2020 05:43:02	San Diego County, CA	US	2	0	1	32.7157	-117.1611
 20200221	02/21/2020 05:53:01	Shanghai	Mainland China	334	2	211		
 20200221	02/21/2020 06:03:04		Vietnam	16	0	14		
@@ -1411,7 +1390,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200222	02/22/2020 12:33:04	Jilin	Mainland China	91	1	52		
 20200222	02/22/2020 12:33:04	Tianjin	Mainland China	135	3	65		
 20200222	02/22/2020 13:03:03	Sichuan	Mainland China	526	3	250		
-20200222	02/22/2020 13:23:05	Hong Kong	Hong Kong	69	2	6		
+20200222	02/22/2020 13:23:05	Hong Kong	China	69	2	6		
 20200222	02/22/2020 14:03:04	Fujian	Mainland China	293	1	162		
 20200222	02/22/2020 14:13:38	Henan	Mainland China	1270	19	830		
 20200222	02/22/2020 14:53:02		Japan	122	1	22		
@@ -1436,7 +1415,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200223	02/23/2020 08:53:02	Sichuan	Mainland China	526	3	261		
 20200223	02/23/2020 09:23:02	Jiangxi	Mainland China	934	1	613		
 20200223	02/23/2020 09:43:02	Inner Mongolia	Mainland China	75	0	27		
-20200223	02/23/2020 09:53:02	Hong Kong	Hong Kong	74	2	11		
+20200223	02/23/2020 09:53:02	Hong Kong	China	74	2	11		
 20200223	02/23/2020 09:53:02	Taiwan	Taiwan	28	1	2		
 20200223	02/23/2020 10:23:02	Henan	Mainland China	1271	19	868		
 20200223	02/23/2020 10:33:03	Fujian	Mainland China	293	1	170		
@@ -1483,7 +1462,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200224	02/24/2020 11:13:09	Hubei	Mainland China	64287	2495	16748		
 20200224	02/24/2020 11:13:10		Iran	61	12	0		
 20200224	02/24/2020 11:13:10		South Korea	833	8	18		
-20200224	02/24/2020 11:23:06	Hong Kong	Hong Kong	79	2	19		
+20200224	02/24/2020 11:23:06	Hong Kong	China	79	2	19		
 20200224	02/24/2020 11:53:02		Malaysia	22	0	18		
 20200224	02/24/2020 13:23:05	Henan	Mainland China	1271	19	943		
 20200224	02/24/2020 14:13:11	Hebei	Mainland China	311	6	234		
@@ -1502,16 +1481,12 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200224	02/24/2020 23:13:02	Shanxi	Mainland China	133	0	94		
 20200224	02/24/2020 23:13:02	Yunnan	Mainland China	174	2	124		
 20200224	02/24/2020 23:23:01	Chongqing	Mainland China	576	6	349		
-20200224	02/24/2020 23:33:02		Afghanistan	1	0	0		
 20200224	02/24/2020 23:33:02		Afghanistan	1	0	0	33.0000	65.0000
 20200224	02/24/2020 23:33:02		Bahrain	1	0	0		
 20200224	02/24/2020 23:33:02		Iraq	1	0	0		
 20200224	02/24/2020 23:33:02		Kuwait	1	0	0		
-20200224	02/24/2020 23:33:02	Lackland, TX (From Diamond Princess)	US	0	0	0		
 20200224	02/24/2020 23:33:02	Lackland, TX (From Diamond Princess)	US	0	0	0	29.3829	-98.6134
-20200224	02/24/2020 23:33:02	Omaha, NE (From Diamond Princess)	US	0	0	0		
 20200224	02/24/2020 23:33:02	Omaha, NE (From Diamond Princess)	US	0	0	0	41.2545	-95.9758
-20200224	02/24/2020 23:33:02	Travis, CA (From Diamond Princess)	US	0	0	0		
 20200224	02/24/2020 23:33:02	Travis, CA (From Diamond Princess)	US	0	0	0	38.2721	-121.9399
 20200224	02/24/2020 23:33:02	Unassigned Location (From Diamond Princess)	US	36	0	0		
 20200224	02/24/2020 23:43:01		Italy	229	7	1		
@@ -1530,10 +1505,9 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200225	02/25/2020 08:13:19		South Korea	977	10	22		
 20200225	02/25/2020 08:53:02	Guangdong	Mainland China	1347	7	822		
 20200225	02/25/2020 08:53:02		Thailand	37	0	22		
-20200225	02/25/2020 08:53:02		Vietnam	16	0	16		
 20200225	02/25/2020 08:53:02		Vietnam	16	0	16	16.0000	108.0000
 20200225	02/25/2020 09:13:05	Zhejiang	Mainland China	1205	1	808		
-20200225	02/25/2020 09:43:02	Hong Kong	Hong Kong	84	2	19		
+20200225	02/25/2020 09:43:02	Hong Kong	China	84	2	19		
 20200225	02/25/2020 10:03:07	Fujian	Mainland China	294	1	199		
 20200225	02/25/2020 10:03:07	Guangxi	Mainland China	252	2	134		
 20200225	02/25/2020 12:43:02	Hebei	Mainland China	311	6	248		
@@ -1558,14 +1532,12 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200225	02/25/2020 18:55:32		Singapore	91	0	53		
 20200225	02/25/2020 19:13:21		Switzerland	1	0	0		
 20200225	02/25/2020 21:23:03		France	14	1	11		
-20200225	02/25/2020 21:23:03	Tempe, AZ	US	1	0	1		
 20200225	02/25/2020 21:23:03	Tempe, AZ	US	1	0	1	33.4255	-111.9400
 20200225	02/25/2020 21:23:03	Unassigned Location (From Diamond Princess)	US	36	0	0		
 20200225	02/25/2020 21:33:02		Germany	17	0	14		
 20200225	02/25/2020 21:33:02		Spain	6	0	2		
 20200225	02/25/2020 23:13:03	Shanxi	Mainland China	133	0	98		
 20200225	02/25/2020 23:23:03	Chongqing	Mainland China	576	6	372		
-20200225	02/25/2020 23:43:03		Algeria	1	0	0		
 20200225	02/25/2020 23:43:03		Algeria	1	0	0	28.0339	1.6596
 20200225	02/25/2020 23:43:03		Kuwait	11	0	0		
 20200225	02/25/2020 23:53:02	Inner Mongolia	Mainland China	75	0	35		
@@ -1618,7 +1590,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200226	02/26/2020 20:43:02		Spain	13	0	2		
 20200226	02/26/2020 21:03:07		Bahrain	33	0	0		
 20200226	02/26/2020 23:43:02	Chongqing	Mainland China	576	6	384		
-20200226	02/26/2020 23:43:02	Hong Kong	Hong Kong	91	2	24		
+20200226	02/26/2020 23:43:02	Hong Kong	China	91	2	24		
 20200226	02/26/2020 23:43:03		Germany	27	0	15		
 20200226	02/26/2020 23:43:03		Iran	139	19	49		
 20200226	02/26/2020 23:43:03		Italy	453	12	3		
@@ -1627,7 +1599,6 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200226	02/26/2020 23:53:01	Shanghai	Mainland China	337	3	272		
 20200226	02/26/2020 23:53:02		Brazil	1	0	0		
 20200226	02/26/2020 23:53:02		Pakistan	2	0	0		
-20200227	02/27/2020 00:43:02	Guizhou	Mainland China	146	2	112		
 20200227	02/27/2020 00:43:02	Guizhou	Mainland China	146	2	112	26.8154	106.8748
 20200227	02/27/2020 01:43:02	Jiangxi	Mainland China	934	1	754		
 20200227	02/27/2020 02:23:13	Beijing	Mainland China	410	5	248		
@@ -1635,7 +1606,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200227	02/27/2020 03:33:06	From Diamond Princess	Australia	8	0	0		
 20200227	02/27/2020 04:03:12	Shanghai	Mainland China	337	3	276		
 20200227	02/27/2020 09:53:02	Guangdong	Mainland China	1347	7	890		
-20200227	02/27/2020 09:53:02	Hong Kong	Hong Kong	92	2	24		
+20200227	02/27/2020 09:53:02	Hong Kong	China	92	2	24		
 20200227	02/27/2020 10:03:07	Fujian	Mainland China	296	1	228		
 20200227	02/27/2020 10:03:07	Guangxi	Mainland China	252	2	161		
 20200227	02/27/2020 10:03:07	Hainan	Mainland China	168	5	131		
@@ -1648,7 +1619,6 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200227	02/27/2020 12:43:02	Heilongjiang	Mainland China	480	13	270		
 20200227	02/27/2020 12:43:02	Hunan	Mainland China	1017	4	804		
 20200227	02/27/2020 12:43:02	Jilin	Mainland China	93	1	67		
-20200227	02/27/2020 12:43:02	Macau	Macau	10	0	8		
 20200227	02/27/2020 12:43:02	Macau	Macau	10	0	8	22.1667	113.5500
 20200227	02/27/2020 12:43:02	Shaanxi	Mainland China	245	1	195		
 20200227	02/27/2020 12:43:02	Sichuan	Mainland China	534	3	321		
@@ -1667,14 +1637,11 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200227	02/27/2020 15:03:11	Henan	Mainland China	1272	20	1068		
 20200227	02/27/2020 15:13:13		Malaysia	23	0	18		
 20200227	02/27/2020 16:23:03		Denmark	1	0	0		
-20200227	02/27/2020 16:23:03		Estonia	1	0	0		
 20200227	02/27/2020 16:23:03		Estonia	1	0	0	58.5953	25.0136
 20200227	02/27/2020 16:23:03		Georgia	1	0	0		
-20200227	02/27/2020 16:23:03		North Macedonia	1	0	0		
 20200227	02/27/2020 16:23:03		North Macedonia	1	0	0	41.6086	21.7453
 20200227	02/27/2020 16:23:03		Norway	1	0	0		
 20200227	02/27/2020 16:23:03		Romania	1	0	0		
-20200227	02/27/2020 20:33:02	Sacramento County, CA	US	2	0	0		
 20200227	02/27/2020 20:33:02	Sacramento County, CA	US	2	0	0	38.4747	-121.3542
 20200227	02/27/2020 20:33:02		Sweden	7	0	0		
 20200227	02/27/2020 21:13:10		Netherlands	1	0	0		
@@ -1702,7 +1669,6 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200228	02/28/2020 04:43:02	Heilongjiang	Mainland China	480	13	283		
 20200228	02/28/2020 04:53:03	Shanghai	Mainland China	337	3	279		
 20200228	02/28/2020 05:03:09	Yunnan	Mainland China	174	2	156		
-20200228	02/28/2020 05:23:07	" Montreal, QC"	Canada	1	0	0		
 20200228	02/28/2020 05:23:07	" Montreal, QC"	Canada	1	0	0	45.5017	-73.5673
 20200228	02/28/2020 05:43:02		North Ireland	1	0	0		
 20200228	02/28/2020 07:13:08	Taiwan	Taiwan	34	1	6		
@@ -1722,7 +1688,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200228	02/28/2020 09:23:02	Henan	Mainland China	1272	20	1112		
 20200228	02/28/2020 09:23:02	Shandong	Mainland China	756	6	405		
 20200228	02/28/2020 09:23:02	Sichuan	Mainland China	538	3	338		
-20200228	02/28/2020 10:03:12	Hong Kong	Hong Kong	94	2	30		
+20200228	02/28/2020 10:03:12	Hong Kong	China	94	2	30		
 20200228	02/28/2020 10:03:12	Zhejiang	Mainland China	1205	1	975		
 20200228	02/28/2020 12:43:02		Japan	228	4	22		
 20200228	02/28/2020 15:03:26		Azerbaijan	1	0	0		
@@ -1730,59 +1696,42 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200228	02/28/2020 15:33:03		Bahrain	36	0	0		
 20200228	02/28/2020 15:33:03		Greece	4	0	0		
 20200228	02/28/2020 15:33:03		Iceland	1	0	0		
-20200228	02/28/2020 15:33:03		Romania	3	0	0		
 20200228	02/28/2020 15:33:03		Romania	3	0	0	45.9432	24.9668
 20200228	02/28/2020 15:33:03		Spain	32	0	2		
 20200228	02/28/2020 15:43:03		Croatia	5	0	0		
 20200228	02/28/2020 15:43:03		Iran	388	34	73		
 20200228	02/28/2020 15:53:03		Israel	4	0	1		
-20200228	02/28/2020 16:23:03		Belarus	1	0	0		
 20200228	02/28/2020 16:23:03		Belarus	1	0	0	53.7098	27.9534
-20200228	02/28/2020 16:23:03		Kuwait	45	0	0		
 20200228	02/28/2020 16:23:03		Kuwait	45	0	0	29.5000	47.7500
-20200228	02/28/2020 16:23:03		Lithuania	1	0	0		
 20200228	02/28/2020 16:23:03		Lithuania	1	0	0	55.1694	23.8813
-20200228	02/28/2020 16:23:03		New Zealand	1	0	0		
 20200228	02/28/2020 16:23:03		New Zealand	1	0	0	-40.9006	174.8860
-20200228	02/28/2020 16:23:03		Nigeria	1	0	0		
 20200228	02/28/2020 16:23:03		Nigeria	1	0	0	9.0820	8.6753
-20200228	02/28/2020 20:03:03	Unassigned Location (From Diamond Princess)	US	44	0	0		
 20200228	02/28/2020 20:03:03	Unassigned Location (From Diamond Princess)	US	44	0	0	35.4437	139.6380
 20200228	02/28/2020 20:13:09		France	57	2	11		
 20200228	02/28/2020 20:13:09		Italy	888	21	46		
 20200228	02/28/2020 20:13:09		UK	20	0	8		
 20200228	02/28/2020 20:53:02	Diamond Princess cruise ship	Others	705	6	10		
 20200228	02/28/2020 21:03:02		Norway	6	0	0		
-20200228	02/28/2020 21:13:12	Boston, MA	US	1	0	1		
 20200228	02/28/2020 21:13:12	Boston, MA	US	1	0	1	42.3601	-71.0589
 20200228	02/28/2020 23:23:03	Chongqing	Mainland China	576	6	422		
 20200228	02/28/2020 23:23:03	Shanxi	Mainland China	133	0	112		
 20200229	02/29/2020 00:33:01		Iceland	1	0	0		
-20200229	02/29/2020 00:33:01		Monaco	1	0	0		
 20200229	02/29/2020 00:33:01		Monaco	1	0	0	43.7333	7.4167
 20200229	02/29/2020 01:23:07	Jiangxi	Mainland China	935	1	811		
-20200229	02/29/2020 01:33:03	Santa Clara, CA	US	3	0	1		
 20200229	02/29/2020 01:33:03	Santa Clara, CA	US	3	0	1	37.3541	-121.9552
-20200229	02/29/2020 01:43:02	Diamond Princess cruise ship	Others	705	6	10		
 20200229	02/29/2020 01:43:02	Diamond Princess cruise ship	Others	705	6	10	35.4437	139.6380
 20200229	02/29/2020 01:53:03		Israel	7	0	1		
 20200229	02/29/2020 01:53:03		Lebanon	4	0	0		
-20200229	02/29/2020 02:03:10	From Diamond Princess	Australia	0	0	0		
 20200229	02/29/2020 02:03:10	From Diamond Princess	Australia	0	0	0	35.4437	139.6380
-20200229	02/29/2020 02:03:10	Queensland	Australia	9	0	1		
 20200229	02/29/2020 02:03:10	Queensland	Australia	9	0	1	-28.0167	153.4000
-20200229	02/29/2020 02:03:10	South Australia	Australia	3	0	2		
 20200229	02/29/2020 02:03:10	South Australia	Australia	3	0	2	-34.9285	138.6007
-20200229	02/29/2020 02:03:10	Victoria	Australia	7	0	4		
 20200229	02/29/2020 02:03:10	Victoria	Australia	7	0	4	-37.8136	144.9631
-20200229	02/29/2020 02:23:11	Portland, OR	US	1	0	0		
 20200229	02/29/2020 02:23:11	Portland, OR	US	1	0	0	45.5051	-122.6750
 20200229	02/29/2020 03:33:02	Beijing	Mainland China	411	8	271		
 20200229	02/29/2020 04:03:18		Malaysia	25	0	18		
 20200229	02/29/2020 05:03:13	Anhui	Mainland China	990	6	868		
 20200229	02/29/2020 05:03:13	Yunnan	Mainland China	174	2	157		
 20200229	02/29/2020 05:23:03		Finland	3	0	1		
-20200229	02/29/2020 05:53:02	Ningxia	Mainland China	73	0	69		
 20200229	02/29/2020 05:53:02	Ningxia	Mainland China	73	0	69	37.2692	106.1655
 20200229	02/29/2020 06:23:03	Shanghai	Mainland China	337	3	287		
 20200229	02/29/2020 07:13:05	Taiwan	Taiwan	39	1	9		
@@ -1797,10 +1746,8 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200229	02/29/2020 12:03:07	Tianjin	Mainland China	136	3	109		
 20200229	02/29/2020 12:03:07	Xinjiang	Mainland China	76	3	62		
 20200229	02/29/2020 12:13:10	Hubei	Mainland China	66337	2727	28993		
-20200229	02/29/2020 12:33:03		Oman	6	0	1		
 20200229	02/29/2020 12:33:03		Oman	6	0	1	21.0000	57.0000
 20200229	02/29/2020 12:33:03		Thailand	42	0	28		
-20200229	02/29/2020 12:33:03		United Arab Emirates	21	0	5		
 20200229	02/29/2020 12:33:03		United Arab Emirates	21	0	5	24.0000	54.0000
 20200229	02/29/2020 12:43:05	Henan	Mainland China	1272	21	1170		
 20200229	02/29/2020 14:33:03		Qatar	1	0	0		
@@ -1823,14 +1770,12 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200229	02/29/2020 18:03:05		Iraq	13	0	0		
 20200229	02/29/2020 18:03:05		Italy	1128	29	46		
 20200229	02/29/2020 18:03:05		Netherlands	6	0	0		
-20200229	02/29/2020 18:03:05		Pakistan	4	0	0		
 20200229	02/29/2020 18:03:05		Pakistan	4	0	0	30.3753	69.3451
 20200229	02/29/2020 18:03:05		Switzerland	18	0	0		
 20200229	02/29/2020 18:03:05		UK	23	0	8		
 20200229	02/29/2020 18:13:07		South Korea	3150	16	27		
 20200229	02/29/2020 19:03:04		France	100	2	12		
 20200229	02/29/2020 19:13:08		Spain	45	0	2		
-20200229	02/29/2020 21:03:05		Brazil	2	0	0		
 20200229	02/29/2020 21:03:05		Brazil	2	0	0	-14.2350	-51.9253
 20200229	02/29/2020 21:03:05		Luxembourg	1	0	0		
 20200229	02/29/2020 21:13:17		Mexico	4	0	0		
@@ -1840,11 +1785,10 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200229	02/29/2020 23:13:06		Norway	15	0	0		
 20200229	02/29/2020 23:13:06	Shanxi	Mainland China	133	0	114		
 20200229	02/29/2020 23:13:06	Western Australia	Australia	2	0	0		
-20200229	02/29/2020 23:23:13	British Columbia	Canada	8	0	3		
 20200229	02/29/2020 23:23:13	British Columbia	Canada	8	0	3	49.2827	-123.1207
 20200229	02/29/2020 23:23:13	Toronto, ON	Canada	10	0	2		
 20200229	02/29/2020 23:43:02	Hainan	Mainland China	168	5	148		
-20200229	02/29/2020 23:53:02	Hong Kong	Hong Kong	95	2	33		
+20200229	02/29/2020 23:53:02	Hong Kong	China	95	2	33		
 20200301	03/01/2020 01:13:10	Jiangxi	Mainland China	935	1	831	27.6140	115.7221
 20200301	03/01/2020 02:43:03		Azerbaijan	3	0	0	40.1431	47.5769
 20200301	03/01/2020 02:43:03	Western Australia	Australia	2	1	0	-31.9505	115.8605
@@ -1879,7 +1823,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200301	03/01/2020 14:13:18	Guangdong	Mainland China	1349	7	1016	23.3417	113.4244
 20200301	03/01/2020 14:13:18	Hebei	Mainland China	318	6	294	38.0428	114.5149
 20200301	03/01/2020 14:13:18	Henan	Mainland China	1272	22	1198	33.8820	113.6140
-20200301	03/01/2020 14:33:16	Hong Kong	Hong Kong	96	2	36	22.3000	114.2000
+20200301	03/01/2020 14:33:16	Hong Kong	China	96	2	36	22.3000	114.2000
 20200301	03/01/2020 14:33:17	Gansu	Mainland China	91	2	84	36.0611	103.8343
 20200301	03/01/2020 15:33:03		Iran	978	54	175	32.0000	53.0000
 20200301	03/01/2020 15:33:03		Lebanon	10	0	0	33.8547	35.8623
@@ -1998,7 +1942,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200302	03/02/2020 22:43:02		Portugal	2	0	0	39.3999	-8.2245
 20200302	03/02/2020 23:23:02	Chongqing	Mainland China	576	6	469	30.0572	107.8740
 20200302	03/02/2020 23:23:02	Shanxi	Mainland China	133	0	119	37.5777	112.2922
-20200302	03/02/2020 23:53:02	Hong Kong	Hong Kong	100	2	36	22.3000	114.2000
+20200302	03/02/2020 23:53:02	Hong Kong	China	100	2	36	22.3000	114.2000
 20200302	03/02/2020 23:53:02	Placer County, CA	US	1	0	0	39.0916	-120.8039
 20200302	03/02/2020 23:53:02		Saudi Arabia	1	0	0	24.0000	45.0000
 20200303	03/03/2020 00:23:14	Guangxi	Mainland China	252	2	202	23.8298	108.7881
@@ -2030,7 +1974,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200303	03/03/2020 11:03:09	Jiangsu	Mainland China	631	0	562	32.9711	119.4550
 20200303	03/03/2020 11:43:02	Hubei	Mainland China	67217	2835	36208	30.9756	112.2707
 20200303	03/03/2020 11:43:02	Tianjin	Mainland China	136	3	124	39.3054	117.3230
-20200303	03/03/2020 11:53:01	Hong Kong	Hong Kong	100	2	37	22.3000	114.2000
+20200303	03/03/2020 11:53:01	Hong Kong	China	100	2	37	22.3000	114.2000
 20200303	03/03/2020 12:33:02	Macau	Macau	10	0	9	22.1667	113.5500
 20200303	03/03/2020 12:33:02		Malaysia	36	0	22	2.5000	112.5000
 20200303	03/03/2020 12:33:02	Zhejiang	Mainland China	1213	1	1093	29.1832	120.0934
@@ -2172,9 +2116,9 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200304	03/04/2020 21:23:10	Westchester County, NY	US	10	0	0	41.1220	-73.7949
 20200304	03/04/2020 23:23:01	Beijing	Mainland China	418	8	297	40.1824	116.4142
 20200304	03/04/2020 23:23:01	Chongqing	Mainland China	576	6	502	30.0572	107.8740
-20200304	03/04/2020 23:23:01	Hong Kong	Hong Kong	105	2	37	22.3000	114.2000
+20200304	03/04/2020 23:23:01	Hong Kong	China	105	2	37	22.3000	114.2000
 20200305	03/05/2020 00:23:06	Heilongjiang	Mainland China	481	13	379	47.8620	127.7615
-20200305	03/05/2020 00:23:07	Hong Kong	Hong Kong	105	2	43	22.3000	114.2000
+20200305	03/05/2020 00:23:07	Hong Kong	China	105	2	43	22.3000	114.2000
 20200305	03/05/2020 01:16:58	Jiangxi	Mainland China	935	1	901	27.6140	115.7221
 20200305	03/05/2020 01:16:59	Fort Bend County, TX	US	1	0	0	29.5693	-95.8143
 20200305	03/05/2020 01:48:26	Henan	Mainland China	1272	22	1239	33.8820	113.6140
@@ -2376,7 +2320,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200306	03/06/2020 20:43:03		Ireland	18	0	0	53.1424	-7.6921
 20200306	03/06/2020 20:43:03		Russia	13	0	2	60.0000	90.0000
 20200306	03/06/2020 20:53:02	Toronto, ON	Canada	24	0	2	43.6532	-79.3832
-20200306	03/06/2020 23:13:06	Hong Kong	Hong Kong	107	2	46	22.3000	114.2000
+20200306	03/06/2020 23:13:06	Hong Kong	China	107	2	46	22.3000	114.2000
 20200306	03/06/2020 23:13:07	King County, WA	US	58	12	1	47.5480	-121.9836
 20200306	03/06/2020 23:13:07	Los Angeles, CA	US	13	0	0	34.0522	-118.2437
 20200306	03/06/2020 23:13:07	Placer County, CA	US	5	1	0	39.0916	-120.8039
@@ -2431,7 +2375,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200307	03/07/2020 09:03:05	Hunan	Mainland China	1018	4	960	27.6104	111.7088
 20200307	03/07/2020 09:03:05	Xinjiang	Mainland China	76	3	72	41.1129	85.2401
 20200307	03/07/2020 09:03:05	Zhejiang	Mainland China	1215	1	1154	29.1832	120.0934
-20200307	03/07/2020 10:13:22	Hong Kong	Hong Kong	108	2	51	22.3000	114.2000
+20200307	03/07/2020 10:13:22	Hong Kong	China	108	2	51	22.3000	114.2000
 20200307	03/07/2020 10:13:22		South Korea	7041	44	135	36.0000	128.0000
 20200307	03/07/2020 10:13:22		United Arab Emirates	45	0	7	24.0000	54.0000
 20200307	03/07/2020 10:13:23		Croatia	12	0	0	45.1667	15.5000
@@ -2570,7 +2514,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200308	03/08/2020 14:33:06	Gansu	Mainland China	124	2	87	36.0611	103.8343
 20200308	03/08/2020 14:43:03	Guangdong	Mainland China	1352	7	1256	23.3417	113.4244
 20200308	03/08/2020 14:43:03	Heilongjiang	Mainland China	481	13	412	47.8620	127.7615
-20200308	03/08/2020 14:43:03	Hong Kong	Hong Kong	114	3	58	22.3000	114.2000
+20200308	03/08/2020 14:43:03	Hong Kong	China	114	3	58	22.3000	114.2000
 20200308	03/08/2020 14:43:03	Hubei	Mainland China	67707	2986	45235	30.9756	112.2707
 20200308	03/08/2020 14:43:03		Malaysia	99	0	24	2.5000	112.5000
 20200308	03/08/2020 14:43:03	Shaanxi	Mainland China	245	1	227	35.1917	108.8701
@@ -2697,7 +2641,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200309	03/09/2020 09:53:06		Ireland	21	0	0	53.1424	-7.6921
 20200309	03/09/2020 10:03:17		Bahrain	95	0	14	26.0275	50.5500
 20200309	03/09/2020 10:03:17		Egypt	55	1	12	26.0000	30.0000
-20200309	03/09/2020 10:03:17	Hong Kong	Hong Kong	115	3	59	22.3000	114.2000
+20200309	03/09/2020 10:03:17	Hong Kong	China	115	3	59	22.3000	114.2000
 20200309	03/09/2020 10:03:17		Iceland	58	0	0	64.9631	-19.0208
 20200309	03/09/2020 10:13:06		Algeria	20	0	0	28.0339	1.6596
 20200309	03/09/2020 10:13:06		Brazil	25	0	0	-14.2350	-51.9253
@@ -2888,12 +2832,12 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200310	03/10/2020 18:53:02		Germany	1457	2	18	51.0000	9.0000
 20200310	03/10/2020 18:53:03		Serbia	5	0	0	44.0165	21.0059
 20200310	03/10/2020 19:13:15	Taiwan	Taipei and environs	47	1	17	23.7000	121.0000
-20200310	03/10/2020 19:13:20		Iran (Islamic Republic of)	8042	291	2731	32.0000	53.0000
+20200310	03/10/2020 19:13:20		Iran	8042	291	2731	32.0000	53.0000
 20200310	03/10/2020 19:13:20	Macau	Macao SAR	10	0	10	22.1667	113.5500
 20200310	03/10/2020 19:13:20		Republic of Korea	7513	54	247	36.0000	128.0000
 20200310	03/10/2020 19:13:21		Holy See	1	0	0	41.9029	12.4534
 20200310	03/10/2020 19:13:21		Ireland	34	0	0	53.1424	-7.6921
-20200310	03/10/2020 19:13:21		occupied Palestinian territory	25	0	0	31.9522	35.2332
+20200310	03/10/2020 19:13:21		Palestine	25	0	0	31.9522	35.2332
 20200310	03/10/2020 19:13:21		Republic of Moldova	3	0	0	47.4116	28.3699
 20200310	03/10/2020 19:13:21		Russian Federation	10	0	3	60.0000	90.0000
 20200310	03/10/2020 19:13:21		Viet Nam	31	0	16	16.0000	108.0000
@@ -2905,7 +2849,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200310	03/10/2020 22:13:11	Massachusetts	US	92	0	1	42.2302	-71.5301
 20200310	03/10/2020 22:13:11	Washington	US	267	23	1	47.4009	-121.4905
 20200310	03/10/2020 23:53:02	Chongqing	Mainland China	576	6	547	30.0572	107.8740
-20200310	03/10/2020 23:53:02	Hong Kong	Hong Kong SAR	120	3	65	22.3000	114.2000
+20200310	03/10/2020 23:53:02	Hong Kong	China	120	3	65	22.3000	114.2000
 20200310	03/10/2020 23:53:02		Norway	400	0	1	60.4720	8.4689
 20200310	03/10/2020 23:53:02	Shanxi	Mainland China	133	0	131	37.5777	112.2922
 20200310	03/10/2020 23:53:02		Spain	1695	35	32	40.0000	-4.0000
@@ -2927,7 +2871,6 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200311	03/11/2020 02:18:14	Tianjin	China	136	3	131	39.3054	117.3230
 20200311	03/11/2020 02:18:14	Tibet	China	1	0	1	31.6927	88.0924
 20200311	03/11/2020 02:18:14	Xinjiang	China	76	3	73	41.1129	85.2401
-20200311	03/11/2020 02:18:14	Yunnan	China	174	2	170	24.9740	101.4870
 20200311	03/11/2020 02:18:14	Yunnan	China	174	2	170	24.974	101.487
 20200311	03/11/2020 02:18:16		Argentina	19	1	0	-38.4161	-63.6167
 20200311	03/11/2020 02:18:26		Lithuania	3	0	0	55.1694	23.8813
@@ -2948,7 +2891,6 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200311	03/11/2020 03:53:03	Inner Mongolia	China	75	1	71	44.0935	113.9448
 20200311	03/11/2020 04:33:03		Paraguay	5	0	0	-23.4425	-58.4438
 20200311	03/11/2020 08:13:09		Azerbaijan	11	0	3	40.1431	47.5769
-20200311	03/11/2020 08:13:09	Henan	China	1273	22	1249	33.8820	113.6140
 20200311	03/11/2020 08:13:09	Henan	China	1273	22	1249	33.882	113.614
 20200311	03/11/2020 09:13:10		Thailand	59	1	34	15.8700	100.9925
 20200311	03/11/2020 09:33:12		Burkina Faso	2	0	0	12.2383	-1.5616
@@ -3000,7 +2942,6 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200311	03/11/2020 18:52:03	Hong Kong	China	126	3	65	22.3000	114.2000
 20200311	03/11/2020 18:52:03		Iran	9000	354	2959	32.0000	53.0000
 20200311	03/11/2020 18:52:03		Jamaica	1	0	0	18.1096	-77.2975
-20200311	03/11/2020 18:52:03	Macau	China	10	0	10	22.1667	113.55
 20200311	03/11/2020 18:52:03	Macau	China	10	0	10	22.1667	113.5500
 20200311	03/11/2020 18:52:03		Moldova	3	0	0	47.4116	28.3699
 20200311	03/11/2020 18:52:03		Qatar	262	0	0	25.3548	51.1839
@@ -3198,7 +3139,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200311	03/11/2020 20:00:00		Sudan	1	1	0	12.8628	30.2176
 20200311	03/11/2020 20:00:00		Sweden	814	1	1	60.1282	18.6435
 20200311	03/11/2020 20:00:00		Switzerland	1139	11	4	46.8182	8.2275
-20200311	03/11/2020 20:00:00		Taiwan*	50	1	20	23.7	121
+20200311	03/11/2020 20:00:00		Taiwan	50	1	20	23.7	121
 20200311	03/11/2020 20:00:00	Tasmania	Australia	5	0	0	-41.4545	145.9707
 20200311	03/11/2020 20:00:00	Tennessee	US	26	0	0	35.747845	-86.692345
 20200311	03/11/2020 20:00:00	Texas	US	43	0	0	31.054487	-97.563461
@@ -3219,11 +3160,11 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200311	03/11/2020 20:00:00	West Virginia	US	0	0	0	38.491226	-80.954453
 20200311	03/11/2020 20:00:00	Wisconsin	US	19	0	1	44.268543	-89.616508
 20200311	03/11/2020 20:00:00	Wyoming	US	1	0	0	42.755966	-107.30249
-20200311	03/11/2020 20:13:14		Taiwan*	48	1	17	23.7000	121.0000
+20200311	03/11/2020 20:13:14		Taiwan	48	1	17	23.7000	121.0000
 20200311	03/11/2020 20:53:02	Channel Islands	United Kingdom	2	0	0	49.3723	-2.3644
 20200311	03/11/2020 20:53:02	Faroe Islands	Denmark	2	0	0	61.8926	-6.9118
 20200311	03/11/2020 20:53:02	Gibraltar	United Kingdom	1	0	1	36.1408	-5.3536
-20200311	03/11/2020 20:53:02		occupied Palestinian territory	0	0	0	31.9522	35.2332
+20200311	03/11/2020 20:53:02		Palestine	0	0	0	31.9522	35.2332
 20200311	03/11/2020 20:53:02	Saint Barthelemy	France	1	0	0	17.9000	-62.8333
 20200311	03/11/2020 20:53:02		San Marino	62	2	0	43.9424	12.4578
 20200311	03/11/2020 20:53:02		Spain	2277	54	183	40.0000	-4.0000
@@ -3307,10 +3248,8 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200312	03/12/2020 01:53:03	Nebraska	US	10	0	0	41.1254	-98.2681
 20200312	03/12/2020 01:53:03	Ontario	Canada	42	0	4	51.2538	-85.3232
 20200312	03/12/2020 01:53:03	Quebec	Canada	9	0	0	52.9399	-73.5491
-20200312	03/12/2020 01:53:03	Tianjin	China	136	3	132	39.3054	117.323
 20200312	03/12/2020 01:53:03	Tianjin	China	136	3	132	39.3054	117.3230
 20200312	03/12/2020 01:53:03	Vermont	US	2	0	0	44.0459	-72.7107
-20200312	03/12/2020 02:13:04	Jiangxi	China	935	1	934	27.6140	115.7221
 20200312	03/12/2020 02:13:04	Jiangxi	China	935	1	934	27.614	115.7221
 20200312	03/12/2020 03:13:09	Wyoming	US	1	0	0	42.7560	-107.3025
 20200312	03/12/2020 03:53:02	Guangdong	China	1356	8	1289	23.3417	113.4244
@@ -3324,7 +3263,7 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200312	03/12/2020 05:53:03		Guyana	1	1	0	5.0000	-58.7500
 20200312	03/12/2020 07:53:02	Shandong	China	760	6	734	36.3427	118.1498
 20200312	03/12/2020 07:53:02	Shanghai	China	344	3	321	31.2020	121.4491
-20200312	03/12/2020 08:13:09		Taiwan*	49	1	20	23.7000	121.0000
+20200312	03/12/2020 08:13:09		Taiwan	49	1	20	23.7000	121.0000
 20200312	03/12/2020 08:33:13		India	73	1	4	21.0000	78.0000
 20200312	03/12/2020 08:33:13		Iraq	71	8	15	33.0000	44.0000
 20200312	03/12/2020 08:53:02		Belarus	12	0	3	53.7098	27.9534
@@ -3409,11 +3348,235 @@ Day	Last Update	Province/State	Country/Region	Confirmed	Deaths	Recovered	Latitud
 20200313	03/13/2020 11:09:03	Heilongjiang	China	482	13	446	47.862	127.7615
 20200313	03/13/2020 11:09:03	Hubei	China	67786	3062	51553	30.9756	112.2707
 20200313	03/13/2020 11:09:03	Hunan	China	1018	4	1005	27.6104	111.7088
-20200313	03/13/2020 11:09:03	Jiangsu	China	631	0	630	32.9711	119.455
+20200313	03/13/2020 11:09:03	Jiangsu	China	631	0	630	32.9711	119.4550
 20200313	03/13/2020 11:09:03	Jilin	China	93	1	91	43.6661	126.1923
 20200313	03/13/2020 11:09:03	Shandong	China	760	7	739	36.3427	118.1498
 20200313	03/13/2020 11:09:03	Shanghai	China	346	3	324	31.202	121.4491
 20200313	03/13/2020 11:09:03	Shanxi	China	133	0	133	37.5777	112.2922
 20200313	03/13/2020 11:09:03	Sichuan	China	539	3	503	30.6171	102.7103
+20200313	03/13/2020 12:13:36		Azerbaijan	15	1	3	40.1431	47.5769
+20200313	03/13/2020 12:33:03		Cayman Islands	1	0	0	19.3133	-81.2546
+20200313	03/13/2020 12:33:03		Guadeloupe	1	0	0	16.2650	-61.5510
 20200313	03/13/2020 13:33:03	Hong Kong	China	134	4	77	22.3	114.2
+20200313	03/13/2020 13:33:03	Quebec	Canada	17	0	0	52.9399	-73.5491
+20200313	03/13/2020 14:13:25	Diamond Princess	Cruise Ship	696	7	325	35.4498	139.6649
+20200313	03/13/2020 15:33:33		Guinea	1	0	0	9.9456	-9.6966
+20200313	03/13/2020 22:21:58		Brazil	151	0	0	-14.2350	-51.9253
+20200313	03/13/2020 22:21:58		United Arab Emirates	85	0	17	23.4241	53.8478
+20200313	03/13/2020 22:21:59		Belarus	27	0	3	53.7098	27.9534
+20200313	03/13/2020 22:22:02		Andorra	1	0	1	42.5063	1.5218
+20200313	03/13/2020 22:22:02		Bangladesh	3	0	0	23.6850	90.3563
+20200313	03/13/2020 22:22:02		Bhutan	1	0	0	27.5142	90.4336
+20200313	03/13/2020 22:22:02		Burkina Faso	2	0	0	12.2383	-1.5616
+20200313	03/13/2020 22:22:02		Cameroon	2	0	0	3.8480	11.5021
+20200313	03/13/2020 22:22:02		Congo (Kinshasa)	2	0	0	-4.0383	21.7587
+20200313	03/13/2020 22:22:02		Cote d'Ivoire	1	0	0	7.5400	-5.5471
+20200313	03/13/2020 22:22:02		Holy See	1	0	0	41.9029	12.4534
+20200313	03/13/2020 22:22:02		Honduras	2	0	0	15.2000	-86.2419
+20200313	03/13/2020 22:22:02		Jamaica	8	0	0	18.1096	-77.2975
+20200313	03/13/2020 22:22:02		Mongolia	1	0	0	46.8625	103.8467
+20200313	03/13/2020 22:22:02		Nigeria	2	0	0	9.0820	8.6753
+20200313	03/13/2020 22:22:02		Togo	1	0	0	8.6195	0.8248
+20200313	03/13/2020 22:22:02		Ukraine	3	1	0	48.3794	31.1656
+20200313	03/13/2020 22:22:03		Guernsey	1	0	0	49.4500	-2.5800
+20200313	03/13/2020 22:22:03		Kenya	1	0	0	-0.0236	37.9062
+20200313	03/13/2020 22:22:03		Nepal	1	0	1	28.3949	84.1240
+20200313	03/13/2020 22:22:06		Antigua and Barbuda	1	0	0	17.0608	-61.7964
 20200313	03/13/2020 23:13:12	Chongqing	China	576	6	566	30.0572	107.874
+20200313	03/13/2020 23:33:05		North Macedonia	14	0	1	41.6086	21.7453
+20200313	03/13/2020 23:33:05		Oman	19	0	9	21.4735	55.9754
+20200313	03/13/2020 23:33:05		Senegal	10	0	1	14.4974	-14.4524
+20200313	03/13/2020 23:33:06		Ethiopia	1	0	0	9.1450	40.4897
+20200313	03/13/2020 23:33:06		Paraguay	6	0	0	-23.4425	-58.4438
+20200313	03/13/2020 23:33:06		Turkey	5	0	0	38.9637	35.2433
+20200313	03/13/2020 23:53:02		Cuba	4	0	0	21.5218	-77.7812
+20200313	03/13/2020 23:53:03		Aruba	2	0	0	12.5211	-69.9683
+20200313	03/13/2020 23:53:03	Iowa	US	17	0	0	42.0115	-93.2105
+20200313	03/13/2020 23:53:03	Kentucky	US	14	0	0	37.6681	-84.6701
+20200314	03/14/2020 00:13:05	Alberta	Canada	29	0	0	53.9333	-116.5765
+20200314	03/14/2020 00:13:05	British Columbia	Canada	64	1	4	53.7267	-127.6476
+20200314	03/14/2020 00:13:05	Heilongjiang	China	482	13	447	47.8620	127.7615
+20200314	03/14/2020 00:13:05	Liaoning	China	125	1	113	41.2956	122.6085
+20200314	03/14/2020 00:13:05	Manitoba	Canada	4	0	0	53.7609	-98.8139
+20200314	03/14/2020 00:13:05	New Mexico	US	10	0	0	34.8405	-106.2485
+20200314	03/14/2020 00:13:05	Saskatchewan	Canada	2	0	0	52.9399	-106.4509
+20200314	03/14/2020 00:53:03	Guizhou	China	146	2	143	26.8154	106.8748
+20200314	03/14/2020 01:13:11	Guangdong	China	1356	8	1299	23.3417	113.4244
+20200314	03/14/2020 01:13:32		Sudan	1	1	0	12.8628	30.2176
+20200314	03/14/2020 01:33:02		Korea, South	8086	72	510	35.9078	127.7669
+20200314	03/14/2020 01:33:03		Guatemala	1	0	0	15.7835	-90.2308
+20200314	03/14/2020 01:53:03	Australian Capital Territory	Australia	1	0	0	-35.4735	149.0124
+20200314	03/14/2020 01:53:03	Northern Territory	Australia	1	0	0	-12.4634	130.8456
+20200314	03/14/2020 01:53:03	Tasmania	Australia	5	0	0	-41.4545	145.9707
+20200314	03/14/2020 02:13:47	Beijing	China	437	8	349	40.1824	116.4142
+20200314	03/14/2020 02:14:15	Zhejiang	China	1227	1	1211	29.1832	120.0934
+20200314	03/14/2020 02:33:04	From Diamond Princess	Australia	0	0	0	35.4437	139.6380
+20200314	03/14/2020 03:13:08	Gansu	China	129	2	89	36.0611	103.8343
+20200314	03/14/2020 04:33:02	Shandong	China	760	7	741	36.3427	118.1498
+20200314	03/14/2020 04:33:02	Sichuan	China	539	3	511	30.6171	102.7103
+20200314	03/14/2020 07:13:11		Taiwan	53	1	20	23.7000	121.0000
+20200314	03/14/2020 08:33:03	Hunan	China	1018	4	1014	27.6104	111.7088
+20200314	03/14/2020 09:53:08	Henan	China	1273	22	1250	33.8820	113.6140
+20200314	03/14/2020 09:53:08	Ningxia	China	75	0	73	37.2692	106.1655
+20200314	03/14/2020 10:13:09	Hubei	China	67790	3075	52960	30.9756	112.2707
+20200314	03/14/2020 11:33:06		Iran	12729	611	2959	32.4279	53.6880
+20200314	03/14/2020 11:53:29		Bahrain	210	0	44	26.0667	50.5577
+20200314	03/14/2020 11:53:29		Belgium	689	4	1	50.5039	4.4699
+20200314	03/14/2020 11:53:29		Switzerland	1359	13	4	46.8182	8.2275
+20200314	03/14/2020 12:13:12		Lebanon	93	3	1	33.8547	35.8623
+20200314	03/14/2020 12:13:12		Thailand	82	1	35	15.8700	100.9925
+20200314	03/14/2020 12:13:12		Vietnam	53	0	16	14.0583	108.2772
+20200314	03/14/2020 12:33:03		Albania	38	1	0	41.1533	20.1683
+20200314	03/14/2020 12:33:03		Algeria	37	3	12	28.0339	1.6596
+20200314	03/14/2020 12:33:03		Bosnia and Herzegovina	18	0	0	43.9159	17.6791
+20200314	03/14/2020 12:33:03		Costa Rica	26	0	0	9.7489	-83.7534
+20200314	03/14/2020 12:33:03		Georgia	30	0	0	42.3154	43.3569
+20200314	03/14/2020 12:33:03		Latvia	26	0	1	56.8796	24.6032
+20200314	03/14/2020 12:33:03		Malta	18	0	1	35.9375	14.3754
+20200314	03/14/2020 12:33:03		Panama	36	1	0	8.5380	-80.7821
+20200314	03/14/2020 12:33:03		Peru	38	0	0	-9.1900	-75.0152
+20200314	03/14/2020 12:53:06	Hong Kong	China	140	4	78	22.3000	114.2000
+20200314	03/14/2020 12:53:07		Bolivia	10	0	0	-16.2902	-63.5887
+20200314	03/14/2020 12:53:07		Cambodia	7	0	1	12.5657	104.9910
+20200314	03/14/2020 12:53:07		Jordan	1	0	1	30.5852	36.2384
+20200314	03/14/2020 12:53:07		Kazakhstan	6	0	0	48.0196	66.9237
+20200314	03/14/2020 12:53:07		Mauritania	1	0	0	21.0079	10.9408
+20200314	03/14/2020 12:53:07		Rwanda	1	0	0	-1.9403	29.8739
+20200314	03/14/2020 12:53:07		Venezuela	2	0	0	6.4238	-66.5897
+20200314	03/14/2020 13:13:25		Eswatini	1	0	0	-26.5225	31.4659
+20200314	03/14/2020 13:13:25	Ontario	Canada	79	0	4	51.2538	-85.3232
+20200314	03/14/2020 13:33:04		Gabon	1	0	0	-0.8037	11.6094
+20200314	03/14/2020 13:33:04	New South Wales	Australia	112	2	4	-33.8688	151.2093
+20200314	03/14/2020 13:33:04	Queensland	Australia	46	0	8	-28.0167	153.4000
+20200314	03/14/2020 13:33:04	South Australia	Australia	19	0	3	-34.9285	138.6007
+20200314	03/14/2020 13:33:04	Victoria	Australia	49	0	8	-37.8136	144.9631
+20200314	03/14/2020 13:33:04	Western Australia	Australia	17	1	0	-31.9505	115.8605
+20200314	03/14/2020 14:53:04		Afghanistan	11	0	0	33.9391	67.7100
+20200314	03/14/2020 14:53:04		Iceland	156	0	1	64.9631	-19.0208
+20200314	03/14/2020 14:53:04		Lithuania	8	0	0	55.1694	23.8813
+20200314	03/14/2020 14:53:04		Martinique	9	0	0	14.6415	-61.0242
+20200314	03/14/2020 14:53:04	United Kingdom	United Kingdom	1140	21	18	55.3781	-3.4360
+20200314	03/14/2020 16:13:55		Austria	655	1	6	47.5162	14.5501
+20200314	03/14/2020 16:13:55		Malaysia	238	0	35	4.2105	101.9758
+20200314	03/14/2020 16:14:30		Singapore	212	0	105	1.3521	103.8198
+20200314	03/14/2020 16:14:34		Kuwait	104	0	5	29.3117	47.4818
+20200314	03/14/2020 16:14:47		Portugal	169	0	2	39.3999	-8.2245
+20200314	03/14/2020 16:14:56		South Africa	38	0	0	-30.5595	22.9375
+20200314	03/14/2020 16:14:58		Maldives	10	0	0	3.2028	73.2207
+20200314	03/14/2020 16:14:58		Sri Lanka	10	0	1	7.8731	80.7718
+20200314	03/14/2020 16:15:01		Trinidad and Tobago	2	0	0	10.6918	-61.2225
+20200314	03/14/2020 16:15:18		Curacao	1	0	0	12.1696	-68.9900
+20200314	03/14/2020 16:15:18		Saint Lucia	1	0	0	13.9094	-60.9789
+20200314	03/14/2020 16:15:18	Virgin Islands, U.S.	US	1	0	0	18.3358	-64.8963
+20200314	03/14/2020 16:33:03	Faroe Islands	Denmark	9	0	0	61.8926	-6.9118
+20200314	03/14/2020 16:33:03	Gibraltar	United Kingdom	1	0	1	36.1408	-5.3536
+20200314	03/14/2020 16:33:03		Jersey	2	0	0	49.1900	-2.1100
+20200314	03/14/2020 16:33:03		Namibia	2	0	0	-22.9576	18.4904
+20200314	03/14/2020 16:33:03	Oregon	US	32	0	0	44.5720	-122.0709
+20200314	03/14/2020 16:33:03	Saint Barthelemy	France	1	0	0	17.9000	-62.8333
+20200314	03/14/2020 16:33:03		Saint Vincent and the Grenadines	1	0	0	12.9843	-61.2872
+20200314	03/14/2020 16:33:03	St Martin	France	2	0	0	18.0708	-63.0501
+20200314	03/14/2020 16:33:03		Suriname	1	0	0	3.9193	-56.0278
+20200314	03/14/2020 16:33:03		Uruguay	4	0	0	-32.5228	-55.7658
+20200314	03/14/2020 16:53:03	Alabama	US	6	0	0	32.3182	-86.9023
+20200314	03/14/2020 16:53:03	Fench Guiana	France	5	0	0	4.0000	-53.0000
+20200314	03/14/2020 16:53:03	French Polynesia	France	3	0	0	-17.6797	149.4068
+20200314	03/14/2020 16:53:03	Indiana	US	16	0	0	39.8494	-86.2583
+20200314	03/14/2020 16:53:03	Maine	US	3	0	0	44.6939	-69.3819
+20200314	03/14/2020 16:53:03	Michigan	US	25	0	0	43.3266	-84.5361
+20200314	03/14/2020 16:53:03	Mississippi	US	6	0	0	32.7416	-89.6787
+20200314	03/14/2020 16:53:03	Missouri	US	4	0	0	38.4561	-92.2884
+20200314	03/14/2020 16:53:03	Montana	US	5	0	0	46.9219	-110.4544
+20200314	03/14/2020 16:53:03	Nebraska	US	14	0	0	41.1254	-98.2681
+20200314	03/14/2020 16:53:03	New Hampshire	US	7	0	0	43.4525	-71.5639
+20200314	03/14/2020 16:53:03	Oklahoma	US	4	0	0	35.5653	-96.9289
+20200314	03/14/2020 16:53:03	South Dakota	US	9	1	0	44.2998	-99.4388
+20200314	03/14/2020 16:53:03	Wyoming	US	2	0	0	42.7560	-107.3025
+20200314	03/14/2020 17:53:03	Georgia	US	66	1	0	33.0406	-83.6431
+20200314	03/14/2020 18:13:20	Delaware	US	6	0	0	39.3185	-75.5071
+20200314	03/14/2020 18:13:23	Arizona	US	12	0	1	33.7298	-111.4312
+20200314	03/14/2020 18:13:23	North Carolina	US	24	0	0	35.6301	-79.8064
+20200314	03/14/2020 18:33:03	Puerto Rico	US	3	0	0	18.2208	-66.5901
+20200314	03/14/2020 18:53:03	Florida	US	76	3	0	27.7663	-81.6868
+20200314	03/14/2020 18:53:03	Minnesota	US	21	0	0	45.6945	-93.9002
+20200314	03/14/2020 18:53:03	Ohio	US	26	0	0	40.3888	-82.7649
+20200314	03/14/2020 18:53:03	Pennsylvania	US	47	0	0	40.5908	-77.2098
+20200314	03/14/2020 18:53:03	Rhode Island	US	20	0	0	41.6809	-71.5118
+20200314	03/14/2020 18:53:03	Utah	US	10	0	0	40.1500	-111.8624
+20200314	03/14/2020 19:53:03	Hawaii	US	4	0	0	21.0943	-157.4983
+20200314	03/14/2020 20:13:16		Czechia	189	0	0	49.8175	15.4730
+20200314	03/14/2020 20:13:16	France	France	4469	91	12	46.2276	2.2137
+20200314	03/14/2020 20:13:16		Ireland	129	2	0	53.1424	-7.6921
+20200314	03/14/2020 20:13:16		Israel	193	0	4	31.0461	34.8516
+20200314	03/14/2020 20:13:16		Italy	21157	1441	1966	41.8719	12.5674
+20200314	03/14/2020 20:33:03		Argentina	34	2	1	-38.4161	-63.6167
+20200314	03/14/2020 20:33:03		Brunei	40	0	0	4.5353	114.7277
+20200314	03/14/2020 20:33:03		Bulgaria	41	2	0	42.7339	25.4858
+20200314	03/14/2020 20:33:03		Chile	61	0	0	-35.6751	-71.5430
+20200314	03/14/2020 20:33:03		Croatia	38	0	1	45.1000	15.2000
+20200314	03/14/2020 20:33:03		Estonia	115	0	0	58.5953	25.0136
+20200314	03/14/2020 20:33:03		India	102	2	4	20.5937	78.9629
+20200314	03/14/2020 20:33:03		Luxembourg	51	1	0	49.8153	6.1296
+20200314	03/14/2020 20:33:03		Pakistan	31	0	2	30.3753	69.3451
+20200314	03/14/2020 20:33:03		Philippines	111	8	2	12.8797	121.7740
+20200314	03/14/2020 20:33:03		Saudi Arabia	103	0	1	23.8859	45.0792
+20200314	03/14/2020 20:33:03		Slovakia	44	0	0	48.6690	19.6990
+20200314	03/14/2020 20:53:02		Armenia	18	0	0	40.0691	45.0382
+20200314	03/14/2020 20:53:02		Colombia	22	0	0	4.5709	-74.2973
+20200314	03/14/2020 20:53:02		Dominican Republic	11	0	0	18.7357	-70.1627
+20200314	03/14/2020 20:53:02		Liechtenstein	4	0	0	47.1660	9.5554
+20200314	03/14/2020 20:53:02		Mexico	26	0	4	23.6345	-102.5528
+20200314	03/14/2020 20:53:02		Moldova	12	0	0	47.4116	28.3699
+20200314	03/14/2020 20:53:02		Morocco	17	1	1	31.7917	-7.0926
+20200314	03/14/2020 20:53:02		New Zealand	6	0	0	-40.9006	174.8860
+20200314	03/14/2020 20:53:02		Reunion	6	0	0	-21.1151	55.5364
+20200314	03/14/2020 20:53:02		Tunisia	18	0	0	33.8869	9.5375
+20200314	03/14/2020 22:13:11		Germany	4585	9	46	51.1657	10.4515
+20200314	03/14/2020 22:13:11		Netherlands	959	12	2	52.1326	5.2913
+20200314	03/14/2020 22:13:11		Norway	1090	3	1	60.4720	8.4689
+20200314	03/14/2020 22:13:11		Spain	6391	195	517	40.4637	-3.7492
+20200314	03/14/2020 22:13:11		Sweden	961	2	1	60.1282	18.6435
+20200314	03/14/2020 22:13:19	Massachusetts	US	138	0	1	42.2302	-71.5301
+20200314	03/14/2020 22:13:19	Washington	US	572	37	1	47.4009	-121.4905
+20200314	03/14/2020 22:13:32	California	US	340	5	6	36.1162	-119.6816
+20200314	03/14/2020 22:13:32	Colorado	US	101	1	0	39.0598	-105.3111
+20200314	03/14/2020 22:13:32	Denmark	Denmark	827	1	1	56.2639	9.5018
+20200314	03/14/2020 22:13:32	Louisiana	US	77	1	0	31.1695	-91.8678
+20200314	03/14/2020 22:13:32	New Jersey	US	69	1	0	40.2989	-74.5210
+20200314	03/14/2020 22:13:32	New York	US	525	2	0	42.1657	-74.9481
+20200314	03/14/2020 22:33:03	Arkansas	US	12	0	0	34.9697	-92.3731
+20200314	03/14/2020 22:33:03	Connecticut	US	22	0	0	41.5978	-72.7554
+20200314	03/14/2020 22:33:03		Egypt	109	2	27	26.8206	30.8025
+20200314	03/14/2020 22:33:03		Finland	225	0	1	61.9241	25.7482
+20200314	03/14/2020 22:33:03		Greece	228	3	8	39.0742	21.8243
+20200314	03/14/2020 22:33:03	Idaho	US	2	0	0	44.2405	-114.4788
+20200314	03/14/2020 22:33:03		Iraq	110	10	26	33.2232	43.6793
+20200314	03/14/2020 22:33:03		Japan	773	22	118	36.2048	138.2529
+20200314	03/14/2020 22:33:03	Kansas	US	8	1	0	38.5266	-96.7265
+20200314	03/14/2020 22:33:03	Maryland	US	26	0	0	39.0639	-76.8021
+20200314	03/14/2020 22:33:03	Nevada	US	21	0	0	38.3135	-117.0554
+20200314	03/14/2020 22:33:03		Qatar	337	0	4	25.3548	51.1839
+20200314	03/14/2020 22:33:03		Romania	123	0	9	45.9432	24.9668
+20200314	03/14/2020 22:33:03		Slovenia	181	1	0	46.1512	14.9955
+20200314	03/14/2020 22:33:03	South Carolina	US	19	0	0	33.8569	-80.9450
+20200314	03/14/2020 22:33:03	Texas	US	57	0	0	31.0545	-97.5635
+20200314	03/14/2020 22:33:03	Virginia	US	41	1	0	37.7693	-78.1700
+20200314	03/14/2020 22:33:03	Wisconsin	US	27	0	1	44.2685	-89.6165
+20200314	03/14/2020 22:33:04	Illinois	US	64	0	2	40.3495	-88.9861
+20200314	03/14/2020 22:33:04	Tennessee	US	32	0	0	35.7478	-86.6923
+20200314	03/14/2020 22:33:04	Vermont	US	5	0	0	44.0459	-72.7107
+20200314	03/14/2020 22:53:02		Cyprus	26	0	0	35.1264	33.4299
+20200314	03/14/2020 22:53:02		Ecuador	28	2	0	-1.8312	-78.1834
+20200314	03/14/2020 22:53:02		Hungary	30	0	1	47.1625	19.5033
+20200314	03/14/2020 22:53:02		Indonesia	96	5	8	-0.7893	113.9213
+20200314	03/14/2020 22:53:02		Poland	103	3	0	51.9194	19.1451
+20200314	03/14/2020 22:53:02		Russia	59	0	8	61.5240	105.3188
+20200314	03/14/2020 22:53:02		San Marino	80	5	4	43.9424	12.4578
+20200314	03/14/2020 22:53:02		Serbia	46	0	0	44.0165	21.0059
+20200314	03/14/2020 23:13:05		Ghana	3	0	0	7.9465	-1.0232
+20200314	03/14/2020 23:13:05		Monaco	2	0	0	43.7384	7.4246
+20200314	03/14/2020 23:13:06		Seychelles	2	0	0	-4.6796	55.4920
+20200314	03/14/2020 23:33:02		Guyana	1	1	0	4.8604	-58.9302
+20200314	03/14/2020 23:33:02	Yunnan	China	174	2	172	24.9740	101.4870
+20200314	03/14/2020 23:53:02	Chongqing	China	576	6	569	30.0572	107.8740
+20200314	03/14/2020 23:53:02	Shanghai	China	353	3	324	31.2020	121.4491
